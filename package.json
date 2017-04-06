@@ -1,0 +1,14 @@
+{
+    "name": "robot-example",
+    "version": "0.0.0",
+    "description": "A basic robot example program",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Lokesh Raj Arora",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "prompt": "^1.0.0"
+    }
+}
